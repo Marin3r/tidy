@@ -1,0 +1,4 @@
+- how I processed the data
+- what assumptions I made
+- why I did things a certain way
+- who and where did I obtain original data
